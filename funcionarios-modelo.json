@@ -1,0 +1,13 @@
+[
+    {
+        "nome": "fulano",
+        "cpf": "123456789",
+        "email": "fulano@ciclano.com",
+        "telefone": "84 99999-9999",
+        "cargo": "Advogado",
+        "setor": "BB - Cadastro",
+        "data_nascimento": "",
+        "contato_emergencia_nome": "Beltrano",
+        "contato_emergencia_telefone": "84 91234-5678"
+    }
+]
